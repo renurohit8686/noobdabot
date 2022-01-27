@@ -1,0 +1,5 @@
+{
+	"ip":"tunoobhaibahi.aternos.me",
+	"port": "57489",
+	"name": "garvsainiispro"
+}
